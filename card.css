@@ -1,0 +1,37 @@
+body{
+   margin: 0;
+    background-color: rgb(241, 210, 215);
+}
+h1{
+    text-align: center;
+}
+.navbar ul{
+    background-color: rgb(44, 44, 46);
+    padding: 0px;
+    margin: 0px;
+        list-style-type: none;
+    overflow: hidden;
+}
+.navbar a{
+    color: white;
+text-decoration: none; 
+   font-family: sans-serif;
+   text-align: center;
+   display: block;
+   padding: 20px;
+}
+.navbar a:hover{
+    background-color: rgb(41, 41, 39);
+}
+.navbar li{
+    float:left;
+}
+.main{
+    color:background-color: grey;
+}
+.about{
+    text-align: center;
+    margin-top: -15px;
+    padding-right: 10px;
+
+}

@@ -4,6 +4,11 @@
     box-sizing: border-box;
 
 }
+.main{
+    background:none;
+    color: #fff;
+    background-color: #141814;
+}
 body{
     background-image: url(enviroment.png);
     background-size: cover;
